@@ -1,4 +1,4 @@
-# 📧 AI Email Generator
+# Email Generator
 
 An AI-powered *Email Generator* built with *Streamlit, **LangChain, and **Groq LLMs*, designed to generate professional, personalized, and well-formatted emails in seconds.  
 Simply enter a few key points, select the tone, and the app crafts a complete email ready to copy or send.
